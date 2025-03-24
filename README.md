@@ -35,6 +35,7 @@ Caso deseje, utilize o diagrama exportado para uma visão gráfica do modelo.
 Este modelo foi desenvolvido como um objeto de estudo para aplicar conceitos de modelagem de dados e fornecer uma estrutura de dados funcional para sistemas acadêmicos. Ele serve como base para a construção de sistemas de gestão de informações de alunos, cursos e professores, com foco na clareza e eficiência da estrutura.
 
 🔗 Links
+
 GitHub
 
 LinkedIn
