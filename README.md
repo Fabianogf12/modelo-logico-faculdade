@@ -36,6 +36,6 @@ Este modelo foi desenvolvido como um objeto de estudo para aplicar conceitos de 
 
 🔗 Links
 
-GitHub
+[GitHub](https://github.com/Fabianogf12)
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/fabiano-ferreira-767100229/)
